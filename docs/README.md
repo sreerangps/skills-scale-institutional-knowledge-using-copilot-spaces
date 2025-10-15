@@ -24,7 +24,11 @@ The documentation is organized to support both learning the full process and qui
 
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — Framework for capturing learnings and converting them into actionable improvements after sprints, releases, and incidents.
 
-- **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed definitions of Developers, Product Managers, and Project Managers, including responsibilities, goals, and typical communication patterns.
+- **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed definitions of all team roles including Developers, Product Managers, Project Managers, UX Designers, Data Analysts, Security Leads, Customer Success Managers, DevOps Engineers, and Business Analysts, with responsibilities, goals, and interaction patterns.
+
+- **[Cross-Functional Handoffs Guide](octoacme-cross-functional-handoffs.md)** — Templates and best practices for effective handoffs between different roles, ensuring smooth transitions and clear communication across team boundaries.
+
+- **[Role Onboarding Checklist](octoacme-role-onboarding-checklist.md)** — Comprehensive onboarding checklists for each role to help new team members quickly understand their responsibilities, tools, and workflows.
 
 ---
 
